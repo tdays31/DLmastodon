@@ -375,9 +375,9 @@ body.layout-multiple-columns {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 32px auto;
-  height: 50px;
+  height: 100px;
   padding: 0;
-  width: 50px;
+  width: 100px;
 }
 
 .layout-multiple-columns .ui__header__logo img,
@@ -4827,3 +4827,7 @@ div[tabindex="-1"] + div[tabindex="-1"] > .status__wrapper > .status-reply.statu
      border-radius: unset;
  }
  
+/* Hide search box */
+.layout-multiple-columns .search {
+  display: none !important;
+}

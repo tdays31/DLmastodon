@@ -417,7 +417,7 @@ body.layout-single-column {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 32px auto;
-  width: 50px;
+  width: 100px;
   height:50px;
 }
 
@@ -4854,3 +4854,8 @@ div[tabindex="-1"] + div[tabindex="-1"] > .status__wrapper > .status-reply.statu
  * Star animation micro-interactions end
  * -------------------------------------
  */
+
+/* Hide search box */
+.layout-single-column .search {
+  display: none !important;
+}
