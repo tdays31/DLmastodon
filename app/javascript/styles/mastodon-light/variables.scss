@@ -8,12 +8,12 @@ $red-500: #df405a; // Cerise
 $classic-base-color: #372831;
 $classic-primary-color: #9baec8;
 $classic-secondary-color: #d9e1e8;
-$classic-highlight-color: #cf647d;
+$classic-highlight-color: #647dcf;
 
-$blurple-600: #be2a4d; // Iris
-$blurple-500: #cf647d; // Brand purple
+$blurple-600: #0b318f; // Iris
+$blurple-500: #647dcf; // Brand purple
 $blurple-400: #7477fd; // Medium slate blue
-$blurple-300: #df98a2; // Faded Blue
+$blurple-300: #99a2dd; // Faded Blue
 
 $grey-600: #4e4c5a; // Trout
 $grey-100: #dadaf3; // Topaz
@@ -26,7 +26,7 @@ $valid-value-color: $success-green !default;
 
 $ui-base-color: $classic-secondary-color !default;
 $ui-base-lighter-color: #b0c0cf;
-$ui-primary-color: #d4b0b9;
+$ui-primary-color: #b0b9d4;
 $ui-secondary-color: $classic-base-color !default;
 $ui-highlight-color: $classic-highlight-color !default;
 
