@@ -387,10 +387,9 @@ body.theme-default.layout-single-column {
 
 body.layout-single-column {
   background-image: var(--bg-image);
-  background-size: contain;
+  background-size: cover;
   background-attachment: fixed;
   background-position: center bottom;
-  background-repeat: repeat-x;
   color: var(--color-fg);
 }
 
