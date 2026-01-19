@@ -357,7 +357,7 @@ body.theme-default.layout-multiple-columns {
 
 body.layout-multiple-columns {
   background-image: var(--bg-image);
-  background-size: cover;
+  background-size: contain;
   background-attachment: fixed;
   background-position: center bottom;
   color: var(--color-fg);
